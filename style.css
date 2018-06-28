@@ -1,0 +1,21 @@
+*{
+text-align: right;
+}
+body{
+  background-repeat:  no-repeat ;
+  background-image: url(http://ognature.com/wp-content/uploads/2017/05/mountain-winter-moutain-green-image-1366x768.jpg);
+}
+h2{
+  color: red;
+}
+h2+p{
+  color: #AA4139;
+  text-align: center;
+  border:5px solid rgba(255, 176, 155, 0.5);
+  cursor:pointer;
+}
+P{
+  color:green;
+  text-decoration: underline;
+  font-family: 'Roboto', sans-serif;
+}
